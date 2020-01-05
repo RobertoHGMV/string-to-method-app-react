@@ -1,0 +1,16 @@
+.containerRep {
+    margin: 30px auto 0;
+    max-width: 450px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contentRep {
+    width: 100%;
+    background: #fff;
+    margin-top: 10px;
+    border-radius: 4px;
+    padding: 30px;
+}
